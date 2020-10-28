@@ -1,0 +1,65 @@
+{
+	"pages": [
+		{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "首页"	
+			}
+		},
+		{
+		    "path" : "pages/index/logn",
+		    "style" : {}
+		},
+		{
+			"path": "pages/index/xunlian",
+			"style": {
+				"navigationBarTitleText": "训练"
+			}
+			
+		},
+		{
+			"path": "pages/index/user",
+			"style": {
+				"navigationBarTitleText": "用户"
+			}
+			
+		}
+	    ,{
+            "path" : "pages/index/usermasg",
+            "style" : {
+				"navigationBarTitleText": "用户信息"
+			}
+        }
+        ,{
+            "path" : "pages/index/iphonelogn",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/index/fitness",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/index/personal",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/index/setting",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/index/promote",
+            "style" : {}
+        }
+        
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F1F1F1",
+		"backgroundColor": "#F1F1F1",
+		"navigationStyle":"custom", //可以去掉小程序端的顶部导航
+			"app-plus":{
+				"titleNView":false // 去掉APP、H5的顶部导航
+			}
+	}
+}

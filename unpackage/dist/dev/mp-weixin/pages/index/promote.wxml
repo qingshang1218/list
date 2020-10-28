@@ -1,0 +1,1 @@
+<view class="concetr"><view class="fanhui"><uni-icons vue-id="1d78e5ec-1" type="arrowthinleft" size="30" data-event-opts="{{[['^click',[['fanhui']]]]}}" bind:click="__e" bind:__l="__l"></uni-icons></view><image class="pro" src="../../static/logo.png" mode></image></view>

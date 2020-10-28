@@ -1,0 +1,1 @@
+<view class="centro data-v-50ffdcea"><view class="fanhui data-v-50ffdcea"><uni-icons vue-id="62077d48-1" type="arrowthinleft" size="30" data-event-opts="{{[['^click',[['fanhui']]]]}}" bind:click="__e" class="data-v-50ffdcea" bind:__l="__l"></uni-icons></view><view data-event-opts="{{[['tap',[['close']]]]}}" class="butten data-v-50ffdcea" bindtap="__e">退出登录</view></view>

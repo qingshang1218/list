@@ -1,0 +1,44 @@
+{
+	"passwordSecret": "passwordSecret-demo",
+	"tokenSecret": "tokenSecret-demo",
+	"tokenExpiresIn": 7200,
+	"tokenExpiresThreshold": 600,
+	"passwordErrorLimit": 6,
+	"bindTokenToDevice": true,
+	"passwordErrorRetryTime": 3600,
+	"autoSetInviteCode": false,
+	"forceInviteCode": false,
+	"app-plus": {
+		"tokenExpiresIn": 2592000,
+		"oauth" : {
+			"weixin" : {
+				"appid" : "wx31a963fa5f4e4d7a",
+				"appsecret" : "7791e8f35a720ff848c83b16628f927f"
+			}
+		}
+	},
+	"mp-weixin": {
+		"oauth" : {
+			"weixin" : {
+				"appid" : "wx168e0a64f57c6a8e",
+				"appsecret" : "ff9cac12c12ec7374c2f200ec3950590"
+			}
+		}
+	},
+	"mp-alipay": {
+		"oauth" : {
+			"alipay" : {
+				"appid" : "alipay appid",
+				"privateKey" : "alipay privateKey"
+			}
+		}
+	},
+	"service": {
+		"sms": {
+			"name": "happy健身",
+			"codeExpiresIn": 300,
+			"smsKey": "ea9b57b3873762424639c77710ff067a",
+			"smsSecret": "82bf41470b7c96f7c77f87a584c5844f"
+		}
+	}
+}

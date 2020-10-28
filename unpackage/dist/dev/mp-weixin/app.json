@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/logn",
+    "pages/index/xunlian",
+    "pages/index/user",
+    "pages/index/usermasg",
+    "pages/index/iphonelogn",
+    "pages/index/fitness",
+    "pages/index/personal",
+    "pages/index/setting",
+    "pages/index/promote"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F1F1F1",
+    "backgroundColor": "#F1F1F1",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap61.json"
+}
